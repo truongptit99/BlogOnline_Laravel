@@ -1,0 +1,21 @@
+{
+  "name": "blog_online",
+  "description": "",
+  "main": "",
+  "authors": [
+    "truongptit99 <xuantruong120499@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "adminLTE": "https://github.com/truongptit99/adminLTE.git"
+  }
+}
